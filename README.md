@@ -8,4 +8,4 @@
 * Athulkrishna V S
 * Prajwal Rai K
 * Chethan Kumar N
-* Anoop Muralidharan
+* Anoop
